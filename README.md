@@ -1,4 +1,4 @@
-# 👋😁 Who am I?
+# Who am I? 👋😁
 I'm Kevin. I am a full stack developer from the USA.
 
 # 📈 Statistics
