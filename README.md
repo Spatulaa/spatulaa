@@ -3,8 +3,8 @@ I'm Kevin. I am a full stack developer from the USA.
 
 # 📈 Statistics
 
-<img alt="Kevin's Github Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=spatulaa&show_icons=true"/>
-<img alt="Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spatulaa"/>
+<img alt="Kevin's Github Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kevindang08&show_icons=true"/>
+<img alt="Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindang08"/>
 
 <!--
 **Spatulaa/spatulaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
